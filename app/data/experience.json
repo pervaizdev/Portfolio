@@ -1,0 +1,38 @@
+[
+  {
+    "index": 1,
+    "image": "/servixer.jpg",
+    "company_name": "Servixer",
+    "job_title": "Call Listener",
+    "site": "on-site",
+    "description": "Listened to calls and categorized them under SSB or DSV based on service needs.",
+    "duration": "Aug 2021 - Nov 2021"
+  },
+  {
+    "index": 2,
+    "image": "/ip.jpg",
+    "company_name": "Internship Pakistan",
+    "job_title": "Flutter Intern",
+    "site": "remote",
+    "description": "Developed frontend projects using Flutter, focusing on responsive UI and clean design.",
+    "duration": "June 2024 - August 2024"
+  },
+  {
+    "index": 3,
+    "image": "/ouromine.jpg",
+    "company_name": "Ouromine Technologies",
+    "job_title": "Digital Marketing",
+    "site": "on-site",
+    "description": "Reached out to people listed for potential services and actively searched for individuals seeking help.",
+    "duration": "Sep 2024 - Oct 2024"
+  },
+  {
+    "index": 4,
+    "image": "/sk_logo.jpg",
+    "company_name": "SevenKoncept",
+    "job_title": "Junior Frontend Developer",
+    "site": "on-site",
+    "description": "Worked on frontend projects using Next.js, React, Tailwind CSS, and Bootstrap to build responsive interfaces.",
+    "duration": "Oct 2024 - Present"
+  }
+]

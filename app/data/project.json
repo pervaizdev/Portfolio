@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Portfolio Website",
+    "techStack": ["Next.js", "Tailwind CSS", "Framer Motion"],
+    "description": "A modern, responsive portfolio to showcase my skills, projects, and contact details. Includes animations and dark mode support.",
+    "image": "/SpaceWebsite.png",
+    "link": "/",
+    "buttonText": "View Portfolio"
+  },
+
+  {
+    "id": 2,
+    "name": "Transcend: Healthcare",
+    "techStack": ["Html", "Tailwind", "Next.js", "Strapi"],
+    "description": "Built a responsive healthcare site using Next.js, Tailwind CSS, and Strapi CMS with dynamic routing, multi-language support, and URL-based navbar switching for a seamless user experience.",
+    "image": "/transcend.jpg",
+    "link": "https://thetranscendhealthcare.com/",
+    "buttonText": "Visit Website"
+  },
+  {
+    "id": 3,
+    "name": "HyperBlock",
+    "techStack": ["Html", "Next", "Tailwind", "Context api "],
+    "description": "Developed Hyperblock using Next.js and Tailwind CSS with Framer Motion animations, real-time notifications via React Hot Toast, secure ME API integration, and interactive UI using Flowbite and Swiper.js for a fast, scalable user experience.",
+    "image": "/Hyperblock.jpg",
+    "link": "https://www.hyperblockstudio.com/",
+    "buttonText": "Visit Website"
+  },
+    {
+    "id": 4,
+    "name": "SevenKoncecpts",
+    "techStack": ["Html", "Bootstrap", "React"],
+    "description": "Developed the Seven Koncepts website using HTML, Bootstrap, and React with API integration, Context API, and Swiper.js sliders to showcase digital services in a modern, responsive, and visually engaging layout.",
+    "image": "/sk.jpg",
+    "link": "https://sk-new.7koncepts.com/",
+    "buttonText": "View Website"
+  },
+    {
+    "id": 5,
+    "name": "Bombay Fifty",
+    "techStack": ["Html", "Bootstrap", "Javascript", "php"],
+    "description": "Developed Bombay Fifty, a responsive restaurant service page using HTML, Bootstrap, and JavaScript with API integration for dynamic content, smooth form handling, and a clean, engaging UI that reflects the brand's identity.",
+    "image": "/bombay-fifty.webp",
+    "link": "https://bombayfifty.com/",
+    "buttonText": "View Website"
+  },
+  {
+    "id": 6,
+    "name": "Grabzer",
+    "techStack": [
+      "React",
+      "Context Api ",
+      "Api Implementation",
+      "Boostrap",
+      "i18n"
+    ],
+    "description": "Developed a multi-language Next.js app with i18n support, Axios-based dynamic API handling, Context API for global state, and user auth via ME API, styled using Bootstrap & Tailwind for a responsive UI.",
+    "image": "/grabzer.jpg",
+    "link": "https://lr-site.7koncepts.com/",
+    "buttonText": "View Website"
+  },
+  {
+    "id": 7,
+    "name": "Lb-908",
+    "techStack": ["Html", "Bootstrap", "Javascript", "php"],
+    "description": "Built Lb908, a responsive business promotion dashboard using HTML, Bootstrap, and JavaScript with dynamic business listing via API, user registration, shout-out features, and profile management for small business visibility.",
+    "image": "/Lb908.jpg",
+    "link": "https://lb908-new.7koncepts.com/dashboard/",
+    "buttonText": "View Website"
+  },
+
+
+  
+  {
+    "id": 8,
+    "name": "Dashboard Grabzer",
+    "techStack": ["Html", "Next.js", "Tailwind CSS"],
+    "description": "Developed a dynamic Admin Panel using Next.js with secure JWT authentication, global state management via Context API, and a responsive UI built with Tailwind CSS and Bootstrap, optimized for performance and scalability.",
+    "image": "/grabzer-dashboard.jpg",
+    "link": "https://lr-admin.7koncepts.com/auth/login/",
+    "buttonText": "View Website"
+  }
+
+
+]
