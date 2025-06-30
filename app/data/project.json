@@ -23,7 +23,7 @@
     "name": "HyperBlock",
     "techStack": ["Html", "Next", "Tailwind", "Context api "],
     "description": "Developed Hyperblock using Next.js and Tailwind CSS with Framer Motion animations, real-time notifications via React Hot Toast, secure ME API integration, and interactive UI using Flowbite and Swiper.js for a fast, scalable user experience.",
-    "image": "/Hyperblock.jpg",
+    "image": "/hyperblock.jpg",
     "link": "https://www.hyperblockstudio.com/",
     "buttonText": "Visit Website"
   },

@@ -44,7 +44,7 @@ const Navbar = () => {
         {/* Left: Logo + Text */}
         <Link href="/">
           <div className="flex items-center gap-2">
-            <Image src="/Navlogo.png" alt="Logo" width={40} height={40} />
+           
             <span className="text-xl font-semibold">My Portfolio</span>
           </div>
         </Link>

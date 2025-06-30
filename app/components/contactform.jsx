@@ -180,6 +180,7 @@ const ContactForm = () => {
           ></motion.textarea>
           <motion.button
             variants={fadeUp}
+            disabled
             type="submit"
             className="text-white hover-scale  gradient-bg rounded-md text-sm font-medium px-4 py-2.5 w-full cursor-pointer border-0 mt-2"
           >
