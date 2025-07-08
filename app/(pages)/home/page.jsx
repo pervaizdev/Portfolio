@@ -9,7 +9,7 @@ import ContactForm from "@/app/components/contactform.jsx";
 // HomeComponent.jsx
 const HomeComponent = () => {
   return (
-<>
+    <>
       <Start />
       <Marquee />
       <AboutMe />

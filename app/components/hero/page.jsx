@@ -52,10 +52,8 @@ const Hero = () => {
             transition={{ duration: 0.6, delay: 0.8 }}
             className="text-4xl mt-8"
           >
-            <h1 className="text-white text-center lg:text-start">Providing</h1>
-            <h3 className="text-center lg:text-start text-transparent bg-clip-text gradient-text mt-3">
-              the best
-            </h3>
+            <h1 className="text-white text-center lg:text-start">Providing<span className="text-center lg:text-start text-transparent bg-clip-text gradient-text mt-3">the best</span></h1>
+           
             <h1 className="text-white mt-3 text-center lg:text-start">
               project experiences
             </h1>
