@@ -115,7 +115,7 @@ const Navbar = () => {
       {isOpen && (
         <div
           ref={menuRef}
-          className="absolute right-6 gradient-bg top-16 w-[250px] lg:hidden  items-center gap-6 py-6  text-white rounded-lg shadow-lg z-50"
+          className="flex flex-col absolute right-6 gradient-bg top-16 w-[250px] lg:hidden  items-center gap-6 py-6  text-white rounded-lg shadow-lg z-50"
         >
           <Link href="/about-me" onClick={toggleMenu}>
             About Me

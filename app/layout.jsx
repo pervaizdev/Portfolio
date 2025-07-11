@@ -25,13 +25,15 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased bg-[#030014] text-white `}
       >
-     <Navbar />
-     <div className="fixed inset-0 z-[-1]">
+        <Navbar />
+        <div className="fixed inset-0 z-[-1]">
           <MovingStars />
         </div>
         {children}
-       <Footer />
+        <Footer />
       </body>
     </html>
   );
 }
+
+
